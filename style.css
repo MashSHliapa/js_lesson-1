@@ -2,3 +2,9 @@ h1 {
   font-size: 48px;
   color: blueviolet;
 }
+
+p {
+  font-size: 30px;
+  line-height: 117%;
+  color: brown;
+}
